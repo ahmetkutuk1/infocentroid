@@ -6,3 +6,8 @@ export(ic_dispersion)
 export(ic_plot)
 export(ic_summary)
 export(ic_weights)
+importFrom(graphics,hist)
+importFrom(stats,
+  density,
+  sd
+)
