@@ -1,0 +1,9 @@
+Package: infocentroid
+Title: Information-Dense Centroid Metrics
+Version: 0.1.0
+Authors@R: person("Your", "Name", email = "your.email@example.com", role = c("aut", "cre"))
+Description: A set of novel metrics for combining central tendency and dispersion into a single information density score.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Config/roxygen2/version: 8.1.1
