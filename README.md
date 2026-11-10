@@ -1,3 +1,5 @@
+<img src="man/figures/logo.png" align="right" height="120" alt="infocentroid logo" />
+
 # infocentroid: Information-Dense Centroid Metrics
 
 infocentroid is an R package that provides information-theoretic alternatives to classical central tendency and dispersion metrics. While classical statistics (mean and standard deviation) are highly sensitive to outliers and multimodal distributions, the Information-Dense Centroid (IDC) focuses on the actual probability density of the data, capturing the region where the bulk of the information resides.
