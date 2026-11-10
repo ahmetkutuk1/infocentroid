@@ -28,11 +28,10 @@ The alpha parameter controls the sharpness of the density focus. A higher alpha 
 
 ## Installation
 
-You can install the development version of infocentroid from GitHub:
+You can install the official version of infocentroid directly from CRAN:
 
-``` r
-# install.packages("devtools")
-devtools::install_github("ahmetkutuk1/infocentroid")
+```r
+install.packages("infocentroid")
 ```
 
 ## Usage
